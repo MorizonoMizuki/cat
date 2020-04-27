@@ -1,5 +1,13 @@
 @charset "UTF-8";
 
+h1 span {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: block;
+}
+
 body {
     font-family:"Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体";
     color: black;
@@ -49,7 +57,7 @@ body {
      font-size: 35px;
      margin-top: 10px;
      margin-bottom: 10px;
-     text-decoration: underline overline ;
+     /* text-decoration: underline overline ; */
      text-align: center;
      
 
