@@ -1,0 +1,147 @@
+@charset "UTF-8";
+
+body {
+    font-family:"Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体";
+    color: black;
+    background-color: blanchedalmond;
+   
+    
+}
+
+ header {
+     height: 80px;
+     background-color:whitesmoke;
+     color:black;
+     
+     display: flex;
+     flex-direction: column;
+     
+     
+ }
+
+ .header1 {
+     font-size: 40px;
+     margin:  0 auto;
+     margin-top: 5px;
+     margin-bottom: 10px;
+     
+ }
+
+ .header2 {
+     font-size: 15px;
+     margin:  0 auto;
+ }
+
+
+ .no1 {
+     width: 70%;
+     background-color: #bcddff;
+     margin:  0 auto;
+     margin-top: 40px;
+     margin-bottom: 10px;
+
+     display: flex;
+     flex-direction: column;
+     text-align: center;
+ }
+
+ h1 {
+     font-size: 35px;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     text-decoration: underline overline ;
+     text-align: center;
+     
+
+ }
+
+ h3 {
+     font-size: 20px;
+     margin-bottom: 10px;
+ }
+
+ h2 {
+     color: crimson;
+     font-size: 20px;
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }
+
+ul {
+    padding-bottom: 20px;
+}
+
+a {
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: darkviolet;
+}
+
+ .no2 {
+    width: 70%;
+    background-color: #bcddff;
+    margin:  0 auto;
+    margin-top: 50px;
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.no3 {
+    width: 70%;
+    background-color: #bcddff;
+    margin:  0 auto;
+    margin-top: 50px;
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.no4 {
+    width: 70%;
+    background-color: #bcddff;
+    margin:  0 auto;
+    margin-top: 50px;
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.no5 {
+    width: 70%;
+    background-color: #bcddff;
+    margin:  0 auto;
+    margin-top: 50px;
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.no6 {
+    width: 70%;
+    background-color: #bcddff;
+    margin:  0 auto;
+    margin-top: 50px;
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.no7 {
+    width: 70%;
+    background-color: #bcddff;
+    margin:  0 auto;
+    margin-top: 50px;
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+
+ 
